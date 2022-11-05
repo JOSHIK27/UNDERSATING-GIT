@@ -1,0 +1,3 @@
+Just trying to insert a file into github
+
+// i have modified to commit this version
